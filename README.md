@@ -29,16 +29,16 @@ You can find a sample of the data in the `layoff.csv` file:
 ## Methodology
 1. **Data Collection**: The data was gathered from multiple sources, including news articles, press releases, and internal reports. The dataset was saved as `layoffs.csv`.
 2. **Data Processing**: The data was cleaned and processed using **Python (Pandas)**. Missing or inconsistent values were handled, and relevant columns were extracted.
-3. **Data Visualization**: Visualizations were created using **Matplotlib** and **Seaborn** to identify trends in layoffs by industry, region, and company.
+3. **Data Visualisation**: Visualizations were created using **Matplotlib** and **Seaborn** to identify trends in layoffs by industry, region, and company.
 
 ## Key Results
-- The **tech sector** saw a significant number of layoffs, with companies like **Uber**, **Anaplan**, and **Retool** contributing heavily to the trend.
+- The **tech sector** saw a significant number of layoffs, with companies like **Amazon**, **Google**, and **Meta** contributing heavily to the trend.
 - The **SF Bay Area** was the most impacted region, as it is home to several major tech companies.
-- **Series C** and **Acquired** stage companies were more likely to experience layoffs due to restructuring or acquisition processes.
-- Companies like **Uber** laid off a significant number of employees in specific departments (e.g., recruitment, operations).
+- **Post IPO** and **Acquired** stage companies were more likely to experience layoffs due to restructuring or acquisition processes.
+- Companies like **Amazon** laid off a significant number of employees in specific departments (e.g., retail).
 
 ## Visuals
-The project features a dashboard of visualizations that highlight key trends in layoffs. 
+The project features a dashboard of visualisations that highlight key trends in layoffs. 
 
 ## Conclusion
 The analysis of layoffs in 2023 reveals a clear trend in the tech and transportation sectors, especially in the **SF Bay Area**. The results provide valuable insights into regional and company-wise layoffs, with special attention to factors such as industry, company stage, and workforce reductions.
