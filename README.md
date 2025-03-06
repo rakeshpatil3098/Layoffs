@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on analyzing layoffs that took place in 2023, with the goal of identifying trends based on factors such as company, industry, location, and other key metrics. By using Python for data analysis, the project examines the patterns of layoffs across various sectors, with a particular focus on the tech and transportation industries.
 
-A dashboard was created to visually represent trends in layoffs, including location-wise, company-wise, and industry-wise analysis. The data used for this analysis is sourced from Kaggle and saved as `layoff.csv` in the repository.
+A dashboard was created to visually represent trends in layoffs, including location-wise, company-wise, and industry-wise analysis. The data used for this analysis is sourced from Kaggle and saved as `layoffs.csv` in the repository.
 
 ## Tools & Technologies
 - **Python** (Pandas, Matplotlib, Seaborn)
@@ -11,7 +11,7 @@ A dashboard was created to visually represent trends in layoffs, including locat
 - **Kaggle** (for the original data source)
 
 ## Data
-The dataset used for the analysis is available in this repository as `layoff.csv`. It contains detailed information about various layoffs that occurred across companies, including:
+The dataset used for the analysis is available in this repository as `layoffs.csv`. It contains detailed information about various layoffs that occurred across companies, including:
 - **Company**: The name of the company.
 - **Location_HQ**: The headquarters location of the company.
 - **Industry**: The industry sector the company operates in.
@@ -27,7 +27,7 @@ The dataset used for the analysis is available in this repository as `layoff.csv
 You can find a sample of the data in the `layoff.csv` file:
 
 ## Methodology
-1. **Data Collection**: The data was gathered from multiple sources, including news articles, press releases, and internal reports. The dataset was saved as `layoff.csv`.
+1. **Data Collection**: The data was gathered from multiple sources, including news articles, press releases, and internal reports. The dataset was saved as `layoffs.csv`.
 2. **Data Processing**: The data was cleaned and processed using **Python (Pandas)**. Missing or inconsistent values were handled, and relevant columns were extracted.
 3. **Data Visualization**: Visualizations were created using **Matplotlib** and **Seaborn** to identify trends in layoffs by industry, region, and company.
 
